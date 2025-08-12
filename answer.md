@@ -11,8 +11,11 @@ File descriptor.
 "You got it, use your debugging skills during the labs!\n"
 
 
+<<<<<<< HEAD
 QUESTIIONS LAB 2:
 
+=======
+>>>>>>> e3bf86d (finished project)
 4. Why can a user program not simply call functions in filesys directly instead of
 performing system calls?
 
